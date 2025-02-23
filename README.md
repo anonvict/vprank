@@ -12,5 +12,5 @@ cd vprank
 # Compile sc 🌱 contoh:
 gcc prank2.c -o prank -lncurses
 ```
-**ada satu file `emoji.py` kemungkinan kamu perlu install modul blessed! jalankan →
+**ada satu file `emoji.py` kemungkinan kamu perlu install modul blessed! jalankan perintah →
 `pip install blessed`**
