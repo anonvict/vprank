@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/python3
 # -*- coding: utf-8 -*-
-# Ahad-23-Feb 18:58:57 2025 🦊 || anonvict
+# Ahad-23-Feb 18:58:57 2025 🐬 || anonvict
 
 import curses
 import time, signal, sys
