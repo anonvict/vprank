@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/python3
 # -*- coding: utf-8 -*-
-# Ahad-23-Feb 18:51:50 2025 🦊 || anonvict
+# Ahad-23-Feb 18:51:50 2025 🐬 || anonvict
 
 '''
 pip install blessed
