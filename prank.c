@@ -1,4 +1,4 @@
-// Ahad-23-Feb 18:57:12 2025 🦊 || anonvict
+// Ahad-23-Feb 18:57:12 2025 🐬 || anonvict
 
 #include <ncurses.h>
 #include <unistd.h>
